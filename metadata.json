@@ -1,0 +1,6 @@
+{
+  "name": "Digital Nahw - ڈیجیٹل نحو",
+  "description": "جامع ڈیجیٹل نحو پورٹل - آسان عربی گرائمر قواعد، اسباق حصہ اول و دوم، عربی عبارات، تمارین، ایم سی کیوز، اور ترجمہ کرنے کے طریقے",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
